@@ -1,0 +1,4 @@
+[receiver] listening on [9999, 9998, 9997]
+[receiver] port 9999: received 21385 of >= 21430 (overall loss 0.21%)
+[receiver] port 9998: received 16072 of >= 16072 (overall loss 0.00%)
+[receiver] port 9997: received 21331 of >= 21430 (overall loss 0.46%)
